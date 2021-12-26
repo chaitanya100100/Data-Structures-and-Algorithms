@@ -1,2 +1,2 @@
 # Data Structures and Algorithms
-Basic implementation of data structures and algorithms I learnt in my first year from coursera course as well as from random sources
+Basic implementation of data structures and algorithms I learnt in my first year from data structures and algorithm courses, coursera and some other random sources.
